@@ -1,67 +1,62 @@
-<h1 align="center">Hey 👋 What's Up? I'm Faiq Ali Siddiqui</h1>
+## Hi there 👋, I'm [Faiq Ali Siddiqui](https://www.linkedin.com/in/faiq-ali-siddiqui-bb2191326/)
+### 💻 Software Engineer | 🤖 AI & Full Stack Developer
 
-###
+🚀 Passionate about building smart, scalable, and user-centric digital solutions through **Artificial Intelligence**, **Machine Learning**, and **Web Development**.
 
-<h3 align="center">💻 Software Engineer | 🤖 AI & Full Stack Developer</h3>
+---
 
+### 🧠 About Me  
+- 🎓 **Bachelors in Computer Science** — Iqra University (2021–2025)  
+- 💡 I love working on **AI-powered applications**, **web systems**, and **automation tools**.  
+- 🧩 Skilled in **Python**, **Django**, **React**, **JavaScript**, and **C#**.  
+- 🌍 I’m currently freelancing and open to global collaboration opportunities.  
+- ⚙️ Final Year Project: *AI-based Smart Automated Classroom Attendance System (Django, YOLO, ResNet152v2)*  
+- 🗣 Languages: English & Urdu  
+
+---
+
+### 🛠️ Tech Stack  
 <p align="center">
-  Passionate about crafting smart, scalable, and interactive digital solutions — blending <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Web Development</b> to solve real-world problems.
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-###
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,react,js,html,css,bootstrap,java,cs,git,github" height="60" alt="skills" />
-</div>
+### 🧩 Featured Projects  
+- 🎯 **Smart Automated Attendance System** — *AI + Web Portal Integration*  
+- 💬 **Desktop Virtual Assistant (Python)** — Voice & Text-based automation  
+- 🌐 **Full Stack Web Projects** — *Netflix Clone, Portfolio, CAPTCHA Authentication*  
+- 📚 **Library Management System** — Console + Unity interfaces  
 
-###
+---
 
-<h3 align="center">🌐 Connect With Me</h3>
+### 🏆 Achievements & Certificates  
+- 🥇 **Best Final Year Project Presentation (2025)**  
+- 🧠 **AI & ML Bootcamp Certificate — Iqra University**  
+- 🧾 **Project selected for Expo Center (2025)**  
 
-<div align="center">
-  <a href="mailto:faiq.code.ali@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/faiq-ali-siddiqui-bb2191326/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://github.com/Faiq-Alii">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
-  </a>
-</div>
+---
 
-###
-
-<h3 align="center">🚀 Featured Projects</h3>
-
-<div align="center">
-
-🧠 <b>AI Smart Attendance System</b> — Face Recognition using Django, YOLO, and ResNet  
-💬 <b>Desktop Virtual Assistant</b> — Voice & Text automation (Python)  
-🌐 <b>Web Projects</b> — Netflix Clone, Portfolio, CAPTCHA Authentication  
-📚 <b>Library Management System</b> — C, C#, Java
-
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Faiq-Alii&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=4C8EDA" height="150" alt="GitHub Streak Stats"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=Faiq-Alii&theme=dracula&column=3&margin-w=10&margin-h=10" height="150" alt="GitHub Trophies"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Faiq-Alii/Faiq-Alii/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Faiq-Alii/Faiq-Alii/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Faiq-Alii/Faiq-Alii/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<h3 align="center">⚡ Fun Fact</h3>
-
-<p align="center">
-  “I turn ideas into reality using code and creativity.” 💡
+### 📬 Connect With Me  
+<p align="left">
+  <a href="mailto:faiq.code.ali@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/faiq-ali-siddiqui-bb2191326/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Faiq-Alii"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+---
+
+### ⚡ Fun Fact  
+> “I turn ideas into reality using code and creativity.” 💡
+
+---
+
+⭐ **“Let's collaborate and build something amazing!”**
