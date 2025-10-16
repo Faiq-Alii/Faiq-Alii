@@ -10,7 +10,7 @@
 - 💡 I love working on **AI-powered applications**, **web systems**, and **automation tools**.  
 - 🧩 Skilled in **Python**, **Django**, **React**, **JavaScript**, and **C#**.  
 - 🌍 I’m currently freelancing and open to global collaboration opportunities.  
-- ⚙️ Final Year Project: *AI-based Smart Automated Classroom Attendance System (Django, YOLO, ResNet152v2)*  
+- ⚙️ Final Year Project: *AI-based Smart Automated Classroom Attendance System Using Face Recognition (Django, YOLO, ResNet152v2)*  
 - 🗣 Languages: English & Urdu  
 
 ---
